@@ -1,0 +1,2 @@
+The examples above are classes and objects in their simplest form, and are not really useful in real life applications.
+
